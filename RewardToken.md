@@ -1,11 +1,5 @@
 ## What is Reward Token?
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![Actions Status](https://github.com/ksfswap/ksfswap-sdk/workflows/CI/badge.svg)](https://github.com/ksfswap/ksfswap-sdk)
-[![npm version](https://img.shields.io/npm/v/@ksfswap-lib/sdk/latest.svg)](https://www.npmjs.com/package/@ksfswap-lib/sdk/v/latest)
-
-## What is Reward Token?
-
 ``` sh
 It's a reward token of KsfSwap Finance
 It have same functionality as like as KsfSwap Token.
@@ -42,7 +36,7 @@ Contract address
 0x1bbd57143428452a4deb42519391a0a436481c8e
 ```
 
-KsfSwap team Support mail 
+Support mail 
 
 ```sh
 support@ksfswap.finance
